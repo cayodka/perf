@@ -1,0 +1,12 @@
+Requirement 1:
+The first page is the home page that showcases each one of our products. I want each and every product to have a black ink stain appear behind them when hovered over! I also want a simple sfx to play when they're hovered over. 
+Each menu link should have a simple yet scary visual effect, and each one should have its own eerie sound be faded in and faded out as the mouse hovers over and out of them.
+Also, every page should have its respective menu link have a visual indicator that I'm in that page.
+
+Requirement 2:
+The second page is our biography, therefore I want the text to type itself, every character should produce a typewriter's keyboard's sound once typed. I want the fonts to be shaking a little.
+
+Requirement 3: 
+The third page is our products page!
+I want every product card to react to clicks and hovers. I want a shadow effect to be cast around the frame when hovered, but not inside of it.
+Every card should, once clicked, replace the frame, text, flower and perfume that are in full display, but I want it to be a quick yet suave transition from one to another. A fade-in-fade-out should be more than enough!

@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(./veryHard/bg\ .png);
+    background-position: 50% -0%;
+    background-repeat: no-repeat;
+}
+
+.container-nav {
+    display: flex;
+    font-family: "Ingrid Darling", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 53px;
+    gap: 50px;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: grey;
+}
+.container-logo-nav{
+    font-size: 70px;
+    text-align: left;
+}
+.box-links {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    text-decoration: solid;
+    color: black;
+}
+.product1 {
+    display: flex;
+    gap: 25px;
+    margin-left: 15px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text {
+    flex-direction:column;
+    font-size: 25px;
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align:justify;
+}
+
+.img-end {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
